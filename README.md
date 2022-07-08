@@ -1,16 +1,55 @@
-# Note Taker Starter Code
+#                                                    Note Taker
 
 
-GIVEN a note-taking application
-WHEN I open the Note Taker
-THEN I am presented with a landing page with a link to a notes page
-WHEN I click on the link to the notes page
-THEN I am presented with a page with existing notes listed in the left-hand column, plus empty fields to enter a new note title and the note’s text in the right-hand column
-WHEN I enter a new note title and the note’s text
-THEN a Save icon appears in the navigation at the top of the page
-WHEN I click on the Save icon
-THEN the new note I have entered is saved and appears in the left-hand column with the other existing notes
-WHEN I click on an existing note in the list in the left-hand column
-THEN that note appears in the right-hand column
-WHEN I click on the Write icon in the navigation at the top of the page
-THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
+## License
+![license: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
+
+
+## User Story
+AS A small business owner
+I WANT to be able to write and save notes
+SO THAT I can organize my thoughts and keep track of tasks I need to complete
+
+
+## Table of Contents
+   - [License](#License)
+   - [UserStory](#User-Story)
+   - [Description](#Description)
+   - [Snapshot](#Snapshot)
+   - [Installation](#Installation)
+   - [Usage](#Usage)
+   - [Questions](#Questions) 
+
+
+## Description  
+
+This is an application to to help keep your day on track. With Note Taker you can write notes or task and save them at the click of a buttton using Express.js .
+
+
+## Snapshot
+<img src="public/assets/images/Screen Shot 2022-07-07 at 8.49.38 PM.png">
+
+
+## Installation 
+
+To use this app you will need to clone it to your local machine using bash or terminal.
+Next you need to Run `npm i express` to use express.js .
+
+
+## Usage 
+
+To use Note Taker simply give a title to your note or task in the note title field then add your note below and hit the save button!
+
+
+## Questions
+
+Please direct any questions to <p><a href= "mailto:tribenation13@gmail.com">tribenation13@gmail.com</a></p>
+
+
+
+
+
+
+
+
+

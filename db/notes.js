@@ -26,7 +26,7 @@ class Notes{
     })
   }
 
-  addNote(newNote){
+  saveNote(newNote){
     const {title, text} = newNote
     if (!title || !text){
       throw new Error('Please add a title and text to your note')
