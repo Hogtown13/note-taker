@@ -16,6 +16,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
    - [UserStory](#User-Story)
    - [Description](#Description)
    - [Snapshot](#Snapshot)
+   - [Heroku](#Heroku)
    - [Installation](#Installation)
    - [Usage](#Usage)
    - [Questions](#Questions) 
@@ -27,7 +28,13 @@ This is an application to to help keep your day on track. With Note Taker you ca
 
 
 ## Snapshot
+
 <img src="public/assets/images/Screen Shot 2022-07-07 at 8.49.38 PM.png">
+
+
+## Heroku
+
+<p>Checkout out the deployed app here <a href='https://fierce-thicket-44518.herokuapp.com/'>Heroku</a></p>
 
 
 ## Installation 
